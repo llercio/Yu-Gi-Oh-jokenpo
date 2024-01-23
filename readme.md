@@ -14,7 +14,7 @@ Selecione a carta desejada de acordo com sua preferência. <br>
 Você irá ganhar a rodada dependendo da interatividade do elemento de cada carta (pedra, papel, tesoura).
 
 <br><br>
-<h3></h3>O jogo ainda é muito básico. Quando adquirir mais conhecimento, provavelmente irei melhorar e adicionar mais funções.</h3>
+<h3>O jogo ainda é muito básico. Quando adquirir mais conhecimento, provavelmente irei melhorar e adicionar mais funções.</h3>
 
 <br>
 
