@@ -8,7 +8,7 @@
 <h2>Como Jogar:</h2>
 Clone este repositório para sua máquina local. Abra o arquivo index.html em seu navegador web.
 <h4>Ou acesse:</h4>
-<a href="https://llercio.github.io/Yu-Gi-Oh-jokenpo/">Jogo da memória com Emojis</a>
+<a href="https://llercio.github.io/Yu-Gi-Oh-jokenpo/">jOKENPO Yu-Gi-Oh!</a>
 <h1>Instruções:</h1>
 Selecione a carta desejada de acordo com sua preferência. <br>
 Você irá ganhar a rodada dependendo da interatividade do elemento de cada carta (pedra, papel, tesoura).
